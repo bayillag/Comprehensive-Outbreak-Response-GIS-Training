@@ -1,6 +1,4 @@
-# day01 introduction to outbreak response
-
-### **Day 1 – Introduction to Outbreak Response for Animal Diseases**
+# **Day 1 – Introduction to Outbreak Response for Animal Diseases**
   
 Bloom Level: Understand | Duration: 4 hrs  
 
