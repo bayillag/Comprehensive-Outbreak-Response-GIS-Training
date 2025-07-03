@@ -1,6 +1,6 @@
 # Comprehensive-Outbreak-Response-GIS-Training
 
-A 120-day, Ethiopia-tailored curriculum equipping veterinary and public-health professionals with end-to-end outbreak response, spatial analysis, and data-platform skills. This training blends epidemiology fundamentals, advanced spatial analytics, remote sensing, and interactive tools to build capacity for rapid, data-driven decision making.
+A 120-day, Ethiopia-tailored package equipping veterinary and public-health professionals with end-to-end outbreak response, spatial analysis, and data-platform skills. This training blends epidemiology fundamentals, advanced spatial analytics, remote sensing, and interactive tools to build capacity for rapid, data-driven decision making.
 
 ## Key Features
 
