@@ -1,41 +1,61 @@
-# Comprehensive-Outbreak-Response-GIS-Training
+# Comprehensive Outbreak Response & GIS Training
 
-A 120-day, Ethiopia-tailored package equipping veterinary and public-health professionals with end-to-end outbreak response, spatial analysis, and data-platform skills. This training blends epidemiology fundamentals, advanced spatial analytics, remote sensing, and interactive tools to build capacity for rapid, data-driven decision making.
+A 120-day, Ethiopia-tailored program equipping veterinary and public-health professionals with end-to-end skills in outbreak investigation, spatial analysis, remote sensing, data-platform workflows, and interactive dashboards.
 
-## Key Features
-
-- **Foundational Epidemiology** (Days 1–30)  
-  Build core skills in case definitions, line lists, descriptive and analytic studies, statistical methods, and early response planning.
-
-- **Spatial Epidemiology & Risk Assessment** (Days 41–50)  
-  Learn GIS basics, hotspot detection, environmental covariates, and network analysis to map and quantify animal-health risks.
-
-- **Advanced Spatial Analytics** (Days 81–90)  
-  Dive into exploratory spatial data analysis (ESDA), clustering, risk modeling in QGIS/R, and decision-support mapping.
-
-- **Remote Sensing & Big-Data** (Days 61–90)  
-  Master Google Earth Engine, Landsat/Sentinel workflows, raster analysis, and real-time flood and land-cover monitoring.
-
-- **Data Platforms & Collaboration** (Days 91–120)  
-  Streamline workflows with Git/GitHub, interactive notebooks (Colab), relational and spatial databases (PostGIS, Supabase), and automate CI/CD pipelines.
-
-- **Interactive Web Apps & Dashboards** (Days 114–120)  
-  Develop R Shiny and Power BI dashboards, apply theming, deploy securely, and enforce role-based access for stakeholders.
-
-## Learning Outcomes
-
-By the end of this program, participants will be able to:
-
-- Design and implement robust surveillance systems for animal-health emergencies.
-- Perform spatial and spatio-temporal analyses to identify hotspots and predict outbreaks.
-- Leverage remote-sensing data for environmental risk mapping.
-- Automate data pipelines with version control, CI/CD, and cloud platforms.
-- Build, deploy, and maintain interactive web applications and dashboards for real-time decision support.
-
-## Who Should Attend
-
-- Veterinary epidemiologists and field officers  
-- Public-health GIS specialists  
-- Data analysts working in One Health contexts  
-- Program managers coordinating outbreak response in Ethiopia  
 ---
+
+## Training Overview
+
+### Part I: Foundational Outbreak Surveillance & Response  
+Builds core capabilities in case definitions, line listing, descriptive and analytic epidemiology, statistical methods, and initial situation reporting.
+
+### Part II: Strategy, Review & Reflection  
+Guides participants through presenting control plans, peer review of workflows and maps, quality-assurance checklists, and forward-looking action roadmaps.
+
+### Part III: Risk-Based Surveillance  
+Covers the principles and evaluation of risk-based systems, early detection survey design, performance metrics, economic valuation, and framework implementation.
+
+### Part IV: GIS for Animal Health Surveillance  
+Introduces GIS data models and sources, geoprocessing and cartographic design, spatial analysis techniques, and scripting to automate mapping tasks.
+
+### Part V: Advanced Spatial Analytics  
+Delves into exploratory spatial data analysis (ESDA), clustering methods, risk assessment modeling in QGIS/R, raster-based environmental covariates, and decision-support mapping.
+
+### Part VI: Collaboration & Notebooks  
+Focuses on reproducible workflows with Git/GitHub, CI/CD pipelines, and interactive Python notebooks (Colab) for geospatial analyses and extensions.
+
+### Part VII: Exploration & Relational Databases  
+Teaches data exploration with Kaggle, notebook sharing best practices, SQL fundamentals, advanced queries (joins, views, CTEs), stored procedures, and performance tuning.
+
+### Part VIII: Spatial Platforms & Backend Services  
+Guides setup and use of PostGIS geometry types and spatial queries, raster analyses, QGIS/Python integration, plus Supabase for REST APIs, real-time subscriptions, and secure deployment.
+
+### Part IX: Web Apps & Dashboards  
+Covers R Shiny fundamentals, reactive programming, modularization, theming, deployment strategies, and Power BI data modeling, transformation (M/DAX), and dashboard publishing.
+
+---
+
+## Getting Started
+
+1. **Clone the repository**  
+   `git clone https://github.com/bayillag/Comprehensive-Outbreak-Response-GIS-Training.git`
+
+2. **Explore the folder structure**  
+   Navigate into `Part_I_Foundational_Outbreak_Surveillance_Response/` through `Part_IX_Web_Apps_and_Dashboards/` to find daily lesson plans.
+
+3. **Follow each day’s module**  
+   Open the `dayXX_*.md` file, review objectives and agenda, complete exercises, then commit your work to the `develop` branch.
+
+---
+
+## Contributing
+
+- Fork the repo and create a feature branch (e.g., `feature/day045-enhancement`).  
+- Add or update lesson content, exercises, or code templates.  
+- Submit a Pull Request against `develop`; ensure CI passes markdown and code lint checks.  
+
+---
+
+## License
+
+This training material is released under the [MIT License](LICENSE). Feel free to adapt and extend for local contexts.
