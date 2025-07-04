@@ -54,7 +54,7 @@ Bloom Level: Apply & Create | Duration: 4 hrs
 
 **Key Tasks:**  
 
-- Reproject all layers to a common CRS (e.g., EPSG:3857) and load into PostGIS.  
+- Reproject all layers to a common CRS (e.g., EPSG:4326) and load into PostGIS.  
 
 - Use ST_Buffer to build 500 m, 1 km, and 5 km buffer zones around village points and roads.  
 
