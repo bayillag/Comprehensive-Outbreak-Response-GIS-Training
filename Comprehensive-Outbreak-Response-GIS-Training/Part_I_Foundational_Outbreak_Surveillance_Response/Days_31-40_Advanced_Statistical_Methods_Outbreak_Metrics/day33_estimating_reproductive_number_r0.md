@@ -48,7 +48,7 @@ Bloom Level: Analyze & Apply | Duration: 4 hrs
 **Key Tasks:**  
 1. Estimate the exponential growth rate (r) from the epidemic’s ascending phase.  
 2. Calculate R₀ using the exponential‐growth formula:  
-   $R_0 = 1 / M(-r) $  
+   \[R_0 = 1 / M(-r)]\   
    where \(M\) is the SI moment‐generating function.  
 3. Fit a maximum likelihood model for R₀ in R or Python.  
 4. Compute R₀ via the final‐size attack‐rate equation for a closed herd.  
