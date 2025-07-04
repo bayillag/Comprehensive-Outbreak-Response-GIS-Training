@@ -43,12 +43,14 @@ Bloom Level: Create & Evaluate | Duration: 4 hrs
 ## Exercise Details  
 
 **Data Provided:**  
+
 - day79_basemap.tif: blank georeferenced village map  
 - day79_scanned_maps.zip: scanned PDF sketches from focus groups  
 - day79_official_features.shp: roads, administrative boundaries, waterpoints  
 - day79_participant_log.csv: mapper IDs, village names, session notes  
 
 **Key Tasks:**  
+
 1. Georeference each scanned sketch by matching 5+ identifiable ground control points on the basemap.  
 2. Create vector layers for community‐identified features (e.g., water sources, grazing zones, high‐risk areas).  
 3. Attach attributes to each feature: `feature_type`, `source` (participant ID), and `confidence_rating`.  

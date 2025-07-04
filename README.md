@@ -7,30 +7,39 @@ A 120-day, Ethiopia-tailored program equipping veterinary and public-health prof
 ## Training Overview
 
 ### Part I: Foundational Outbreak Surveillance & Response  
+
 Builds core capabilities in case definitions, line listing, descriptive and analytic epidemiology, statistical methods, and initial situation reporting.
 
 ### Part II: Strategy, Review & Reflection  
+
 Guides participants through presenting control plans, peer review of workflows and maps, quality-assurance checklists, and forward-looking action roadmaps.
 
 ### Part III: Risk-Based Surveillance  
+
 Covers the principles and evaluation of risk-based systems, early detection survey design, performance metrics, economic valuation, and framework implementation.
 
 ### Part IV: GIS for Animal Health Surveillance  
+
 Introduces GIS data models and sources, geoprocessing and cartographic design, spatial analysis techniques, and scripting to automate mapping tasks.
 
 ### Part V: Advanced Spatial Analytics  
+
 Delves into exploratory spatial data analysis (ESDA), clustering methods, risk assessment modeling in QGIS/R, raster-based environmental covariates, and decision-support mapping.
 
 ### Part VI: Collaboration & Notebooks  
+
 Focuses on reproducible workflows with Git/GitHub, CI/CD pipelines, and interactive Python notebooks (Colab) for geospatial analyses and extensions.
 
 ### Part VII: Exploration & Relational Databases  
+
 Teaches data exploration with Kaggle, notebook sharing best practices, SQL fundamentals, advanced queries (joins, views, CTEs), stored procedures, and performance tuning.
 
 ### Part VIII: Spatial Platforms & Backend Services  
+
 Guides setup and use of PostGIS geometry types and spatial queries, raster analyses, QGIS/Python integration, plus Supabase for REST APIs, real-time subscriptions, and secure deployment.
 
 ### Part IX: Web Apps & Dashboards  
+
 Covers R Shiny fundamentals, reactive programming, modularization, theming, deployment strategies, and Power BI data modeling, transformation (M/DAX), and dashboard publishing.
 
 ---

@@ -18,11 +18,10 @@ If R₀ < 1, an introduced pathogen will die out. If R₀ > 1, it can spark an e
 Estimated Dissemination Ratio (EDR)
 EDR approximates R₀ in real time. Over an n-day window ending on day i:  
 
-EDRₙ(i) = 
-  [Cases from day i−(n−1) to day i] 
+EDRₙ(i) =
+  [Cases from day i−(n−1) to day i]
   ÷ [Cases from day i−2n to day i−n]
  
-
 An EDR consistently below 1 indicates that control measures are working; values above 1 signal ongoing spread.  
 
 ---
