@@ -1,4 +1,4 @@
-# Day 89 – Spatial Modeling with Regression Techniques**
+# **Day 89 – Spatial Modeling with Regression Techniques**
   
 Bloom Level: Analyze & Create | Duration: 4 hrs  
 
