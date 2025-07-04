@@ -54,7 +54,7 @@ Bloom Level: Apply & Create | Duration: 4 hrs
 
 **Key Tasks:**  
 1. Calculate herd‐level sample size formula:  
-   $$ n = \frac{\ln(1 - \text{Confidence})}{\ln(1 - (\text{Design Prevalence} \times \text{Se}))} $$
+   \ n = \frac{\ln(1 - \text{Confidence})}{\ln(1 - (\text{Design Prevalence} \times \text{Se}))} \
 
 Where:
 *   `n` = The required sample size (the number of animals to test).
