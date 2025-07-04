@@ -4,7 +4,7 @@ Bloom Level: Evaluate & Analyze | Duration: 4 hrs
 
 ## Objectives  
 
-- Define and calculate core surveillance metrics: sensitivity, predictive value positive (PVP), timeliness, completeness, and representativeness.  
+- Define and calculate core surveillance metrics: sensitivity, predictive value positive (PPV), timeliness, completeness, and representativeness.  
 - Assess system-level and unit-level performance using quantitative and spatial analyses.  
 - Visualize metric distributions over time and space to identify weak links.  
 - Interpret findings to recommend targeted improvements for the surveillance system.  
@@ -14,7 +14,7 @@ Bloom Level: Evaluate & Analyze | Duration: 4 hrs
 ## Agenda  
 
 1. **Lecture: Key Surveillance Metrics** (45 min)  
-   - Definitions and formulas for sensitivity, PVP, timeliness, completeness, representativeness  
+   - Definitions and formulas for sensitivity, PPV, timeliness, completeness, representativeness  
    - Uses and limitations of each metric in outbreak monitoring  
 
 2. **Demo: Computing Metrics in Code** (30 min)  
