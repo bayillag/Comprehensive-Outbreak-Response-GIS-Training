@@ -50,7 +50,7 @@ Covers R Shiny fundamentals, reactive programming, modularization, theming, depl
    `git clone https://github.com/bayillag/Comprehensive-Outbreak-Response-GIS-Training.git`
 
 2. **Explore the folder structure**  
-   Navigate into `Part_I_Foundational_Outbreak_Surveillance_Response/` through `Part_IX_Web_Apps_and_Dashboards/` to find daily lesson plans.
+   Navigate into `Part_01_Foundational_Outbreak_Surveillance_Response/` through `Part_09_Web_Apps_and_Dashboards/` to find daily lesson plans.
 
 3. **Follow each day’s module**  
    Open the `dayXX_*.md` file, review objectives and agenda, complete exercises, then commit your work to the `develop` branch.
