@@ -4,7 +4,7 @@ A 120-day, Ethiopia-tailored program equipping veterinary and public-health prof
 
 ---
 
-## Training Overview
+## Training Program Overview
 
 ### Part I: Foundational Outbreak Surveillance & Response  
 
