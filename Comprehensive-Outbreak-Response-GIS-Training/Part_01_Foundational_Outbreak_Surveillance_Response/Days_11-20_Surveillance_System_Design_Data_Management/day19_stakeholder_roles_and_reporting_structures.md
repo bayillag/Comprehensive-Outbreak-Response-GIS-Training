@@ -16,7 +16,7 @@ Bloom Level: Analyze | Duration: 4 hrs
 
 1. Lecture: Animal Health Stakeholder Ecosystem (45 min)  
    - Overview of stakeholders and their mandates  
-   - Reporting obligations under OIE and national veterinary regulations  
+   - Reporting obligations under WOAH (OIE) and national veterinary regulations  
 
 2. Case Study: Avian Influenza Response Network (30 min)  
    - Timeline of notifications from farmers to FAO/OIE  
